@@ -3,6 +3,6 @@ Krypton Cougars (FRC 2539)
 
 Group Members:Evan Yost, Henry Will, Quinn Marcus
 
-Group Name:
+Group Name:Palmyra Programmin' Ballers
 
 Mission Statement:
