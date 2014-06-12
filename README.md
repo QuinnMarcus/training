@@ -5,4 +5,4 @@ Group Members:Evan Yost, Henry Will, Quinn Marcus
 
 Group Name:Palmyra Programmin' Ballers
 
-Mission Statement:
+Motto:
