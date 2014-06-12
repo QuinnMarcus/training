@@ -1,7 +1,7 @@
 Krypton Cougars (FRC 2539)
 ========
 
-Group Members:
+Group Members:Evan Yost, Henry Will, Quinn Marcus
 
 Group Name:
 
